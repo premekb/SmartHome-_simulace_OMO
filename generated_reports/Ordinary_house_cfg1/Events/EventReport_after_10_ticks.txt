@@ -1,0 +1,87 @@
+------------------------------------------------------------------
+Handled events:
+------------------------------------------------------------------
+Important event:
+- Description: Inhabitant is sad.
+- Source: Adult: Wilfried Beck
+- Handled by: Adult: Wilfried Beck
+Important event:
+- Description: Inhabitant is hungry.
+- Source: Kid: Friedrich Roth
+- Handled by: Adult: Konrad Meier
+Important event:
+- Description: A device is broken.
+- Source: LightSensor
+- Handled by: Adult: Konrad Schmidt
+Important event:
+- Description: Inhabitant is sad.
+- Source: Adult: Wilfried Beck
+- Handled by: Adult: Konrad Schmidt
+Important event:
+- Description: A device is broken.
+- Source: TV
+- Handled by: Adult: Konrad Meier
+Important event:
+- Description: A room is too bright.
+- Source: LightSensor
+- Handled by: Light. Light. WindowBlind. WindowBlind
+Important event:
+- Description: A device is broken.
+- Source: WindowBlind
+- Handled by: Adult: Konrad Schmidt
+Important event:
+- Description: Inhabitant is sad.
+- Source: Adult: Wilfried Beck
+- Handled by: Adult: Konrad Schmidt
+Important event:
+- Description: A device is broken.
+- Source: Light
+- Handled by: Adult: Konrad Meier
+Important event:
+- Description: A device is broken.
+- Source: LightSensor
+- Handled by: Adult: Konrad Meier
+Important event:
+- Description: A device is broken.
+- Source: AC
+- Handled by: Adult: Konrad Meier
+Important event:
+- Description: A device is broken.
+- Source: LightSensor
+- Handled by: Adult: Konrad Schmidt
+Important event:
+- Description: A device is broken.
+- Source: WindowBlind
+- Handled by: Adult: Konrad Meier
+Important event:
+- Description: A device is broken.
+- Source: TV
+- Handled by: Adult: Konrad Meier
+Important event:
+- Description: A device is broken.
+- Source: Light
+- Handled by: Adult: Konrad Schmidt
+Important event:
+- Description: Humidity in a room is too high.
+- Source: HumiditySensor
+- Handled by: Dehumidifier
+Important event:
+- Description: A device is broken.
+- Source: WindowBlind
+- Handled by: Adult: Konrad Meier
+------------------------------------------------------------------
+Unhandled events:
+------------------------------------------------------------------
+Alert:
+- Description: Dog is barking.
+- Source: Dog: Schmitz
+- Handled by: 
+Alert:
+- Description: Dog is barking.
+- Source: Dog: Schmitz
+- Handled by: 
+Alert:
+- Description: Dog is barking.
+- Source: Dog: Schmitz
+- Handled by: 
+

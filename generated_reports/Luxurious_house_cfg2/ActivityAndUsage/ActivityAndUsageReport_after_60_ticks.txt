@@ -1,0 +1,104 @@
+------------ Activity and Usage Report ------------
+Adult: Gunther Berger
+---------------------
+Used Light 1x
+Used Fridge 2x
+Used TV 1x
+
+Adult: Greta Wolf
+-----------------
+Used Light 1x
+Used AC 1x
+Used Fridge 2x
+Used Fridge 1x
+
+Adult: Herbert Herrmann
+-----------------------
+Used TV 1x
+Used Light 1x
+Used AC 1x
+Used TV 1x
+Used WindowBlind 2x
+Used Light 1x
+Used WindowBlind 1x
+Used Light 1x
+Used TV 1x
+Used Light 1x
+Used Light 1x
+
+Adult: Gerhard Schmitz
+----------------------
+Used Light 1x
+Used Light 1x
+Used WindowBlind 1x
+Used Dishwasher 1x
+Used WindowBlind 3x
+Used Oven 1x
+Used Microwave 5x
+Used Microwave 1x
+Used TV 1x
+Used TV 2x
+Used Dishwasher 2x
+Used Light 1x
+Used TV 1x
+Used TV 1x
+Used WindowBlind 1x
+Used WindowBlind 2x
+Used Light 4x
+Used TV 1x
+Used WindowBlind 2x
+Used Light 1x
+Used WindowBlind 1x
+
+Adult: Norbert Hofmann
+----------------------
+Used Light 1x
+Used WindowBlind 1x
+Used AC 1x
+Used Microwave 1x
+Used WindowBlind 1x
+Used TV 1x
+
+Adult: Gunther Ludwig
+---------------------
+Used Light 1x
+
+Adult: Gerhard Fuchs
+--------------------
+Used TV 1x
+Used Light 2x
+Used Light 1x
+Used WindowBlind 1x
+Used Light 1x
+Used TV 1x
+
+Adult: Ingo Vogel
+-----------------
+Used WindowBlind 1x
+Used Light 1x
+Used Oven 2x
+Used AC 1x
+Used Light 1x
+Used Light 1x
+Used TV 1x
+Used Light 1x
+Used WindowBlind 1x
+Used WindowBlind 1x
+Used WindowBlind 1x
+
+Adult: Konrad Schneider
+-----------------------
+Used TV 1x
+Used Light 1x
+Used Light 1x
+Used WindowBlind 1x
+Used WindowBlind 1x
+
+Adult: Greta Klein
+------------------
+Used WindowBlind 1x
+Used AC 1x
+Used Microwave 1x
+Used Microwave 1x
+
+

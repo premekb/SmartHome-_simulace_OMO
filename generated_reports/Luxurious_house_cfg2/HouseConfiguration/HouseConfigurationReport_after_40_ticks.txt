@@ -1,0 +1,320 @@
+- House
+-- Floor
+--- Room
+---- Adult: Greta Klein
+---- SportsEquipmentRack
+--- Room
+---- Adult: Norbert Hofmann
+---- SportsEquipmentRack
+--- Room
+---- Adult: Gerhard Schmitz
+---- Kid: Greta Berger
+---- Adult: Gerhard Fuchs
+---- Dog: Schmitz
+---- Fridge
+---- Dishwasher
+---- Light
+---- Light
+---- Oven
+---- Microwave
+---- AC
+---- LightSensor
+---- Window 
+----- WindowBlind
+---- Window 
+--- Room
+---- Kid: Konrad Roth
+---- Fridge
+---- Dishwasher
+---- Light
+---- Light
+---- Oven
+---- Microwave
+---- AC
+---- LightSensor
+---- Window 
+----- WindowBlind
+---- Window 
+--- Room
+---- Adult: Greta Wolf
+---- TV
+---- Light
+---- Light
+---- Light
+---- Light
+---- AC
+---- AudioVideoReceiver
+---- Dehumidifier
+---- LightSensor
+---- HumiditySensor
+---- TemperatureSensor
+---- Window 
+--- Room
+---- Adult: Gunther Berger
+---- Kid: Ingo Neumann
+---- Adult: Gunther Ludwig
+---- TV
+---- TV
+---- TV
+---- TV
+---- Fridge
+---- LightSensor
+---- Window 
+----- WindowBlind
+---- Window 
+----- WindowBlind
+---- Window 
+----- WindowBlind
+---- Window 
+----- WindowBlind
+--- Room
+---- TV
+---- Light
+---- Light
+---- LightSensor
+---- Window 
+----- WindowBlind
+---- Window 
+----- WindowBlind
+--- Room
+---- TV
+---- Light
+---- Light
+---- LightSensor
+---- Window 
+----- WindowBlind
+---- Window 
+----- WindowBlind
+--- Room
+---- TV
+---- Light
+---- Light
+---- LightSensor
+---- Window 
+----- WindowBlind
+---- Window 
+----- WindowBlind
+--- Room
+---- Dog: Beck
+---- Adult: Ingo Vogel
+---- TV
+---- Light
+---- Light
+---- LightSensor
+---- Window 
+----- WindowBlind
+---- Window 
+----- WindowBlind
+-- Floor
+--- Room
+---- Adult: Greta Klein
+---- SportsEquipmentRack
+--- Room
+---- Adult: Norbert Hofmann
+---- SportsEquipmentRack
+--- Room
+---- Adult: Gerhard Schmitz
+---- Kid: Greta Berger
+---- Adult: Gerhard Fuchs
+---- Dog: Schmitz
+---- Fridge
+---- Dishwasher
+---- Light
+---- Light
+---- Oven
+---- Microwave
+---- AC
+---- LightSensor
+---- Window 
+----- WindowBlind
+---- Window 
+--- Room
+---- Kid: Konrad Roth
+---- Fridge
+---- Dishwasher
+---- Light
+---- Light
+---- Oven
+---- Microwave
+---- AC
+---- LightSensor
+---- Window 
+----- WindowBlind
+---- Window 
+--- Room
+---- Adult: Greta Wolf
+---- TV
+---- Light
+---- Light
+---- Light
+---- Light
+---- AC
+---- AudioVideoReceiver
+---- Dehumidifier
+---- LightSensor
+---- HumiditySensor
+---- TemperatureSensor
+---- Window 
+--- Room
+---- Adult: Gunther Berger
+---- Kid: Ingo Neumann
+---- Adult: Gunther Ludwig
+---- TV
+---- TV
+---- TV
+---- TV
+---- Fridge
+---- LightSensor
+---- Window 
+----- WindowBlind
+---- Window 
+----- WindowBlind
+---- Window 
+----- WindowBlind
+---- Window 
+----- WindowBlind
+--- Room
+---- TV
+---- Light
+---- Light
+---- LightSensor
+---- Window 
+----- WindowBlind
+---- Window 
+----- WindowBlind
+--- Room
+---- TV
+---- Light
+---- Light
+---- LightSensor
+---- Window 
+----- WindowBlind
+---- Window 
+----- WindowBlind
+--- Room
+---- TV
+---- Light
+---- Light
+---- LightSensor
+---- Window 
+----- WindowBlind
+---- Window 
+----- WindowBlind
+--- Room
+---- Dog: Beck
+---- Adult: Ingo Vogel
+---- TV
+---- Light
+---- Light
+---- LightSensor
+---- Window 
+----- WindowBlind
+---- Window 
+----- WindowBlind
+-- Floor
+--- Room
+---- Adult: Greta Klein
+---- SportsEquipmentRack
+--- Room
+---- Adult: Norbert Hofmann
+---- SportsEquipmentRack
+--- Room
+---- Adult: Gerhard Schmitz
+---- Kid: Greta Berger
+---- Adult: Gerhard Fuchs
+---- Dog: Schmitz
+---- Fridge
+---- Dishwasher
+---- Light
+---- Light
+---- Oven
+---- Microwave
+---- AC
+---- LightSensor
+---- Window 
+----- WindowBlind
+---- Window 
+--- Room
+---- Kid: Konrad Roth
+---- Fridge
+---- Dishwasher
+---- Light
+---- Light
+---- Oven
+---- Microwave
+---- AC
+---- LightSensor
+---- Window 
+----- WindowBlind
+---- Window 
+--- Room
+---- Adult: Greta Wolf
+---- TV
+---- Light
+---- Light
+---- Light
+---- Light
+---- AC
+---- AudioVideoReceiver
+---- Dehumidifier
+---- LightSensor
+---- HumiditySensor
+---- TemperatureSensor
+---- Window 
+--- Room
+---- Adult: Gunther Berger
+---- Kid: Ingo Neumann
+---- Adult: Gunther Ludwig
+---- TV
+---- TV
+---- TV
+---- TV
+---- Fridge
+---- LightSensor
+---- Window 
+----- WindowBlind
+---- Window 
+----- WindowBlind
+---- Window 
+----- WindowBlind
+---- Window 
+----- WindowBlind
+--- Room
+---- TV
+---- Light
+---- Light
+---- LightSensor
+---- Window 
+----- WindowBlind
+---- Window 
+----- WindowBlind
+--- Room
+---- TV
+---- Light
+---- Light
+---- LightSensor
+---- Window 
+----- WindowBlind
+---- Window 
+----- WindowBlind
+--- Room
+---- TV
+---- Light
+---- Light
+---- LightSensor
+---- Window 
+----- WindowBlind
+---- Window 
+----- WindowBlind
+--- Room
+---- Dog: Beck
+---- Adult: Ingo Vogel
+---- TV
+---- Light
+---- Light
+---- LightSensor
+---- Window 
+----- WindowBlind
+---- Window 
+----- WindowBlind
+

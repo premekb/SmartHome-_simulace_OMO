@@ -1,0 +1,332 @@
+------------ Consumption report ------------
+Fridge
+- Totally consumed:
+Water: 0 units, Price: 0$
+Gas: 0 units, Price: 0$
+Electricity: 45 units, Price: 90$ 
+- Consumed since last consumption report:
+Water: 0 units, Price: 0$
+Gas: 0 units, Price: 0$
+Electricity: 45 units, Price: 90$ 
+
+Dishwasher
+- Totally consumed:
+Water: 0 units, Price: 0$
+Gas: 0 units, Price: 0$
+Electricity: 9 units, Price: 18$ 
+- Consumed since last consumption report:
+Water: 0 units, Price: 0$
+Gas: 0 units, Price: 0$
+Electricity: 9 units, Price: 18$ 
+
+Light
+- Totally consumed:
+Water: 0 units, Price: 0$
+Gas: 0 units, Price: 0$
+Electricity: 0 units, Price: 0$ 
+- Consumed since last consumption report:
+Water: 0 units, Price: 0$
+Gas: 0 units, Price: 0$
+Electricity: 0 units, Price: 0$ 
+
+Light
+- Totally consumed:
+Water: 0 units, Price: 0$
+Gas: 0 units, Price: 0$
+Electricity: 40 units, Price: 80$ 
+- Consumed since last consumption report:
+Water: 0 units, Price: 0$
+Gas: 0 units, Price: 0$
+Electricity: 40 units, Price: 80$ 
+
+Oven
+- Totally consumed:
+Water: 0 units, Price: 0$
+Gas: 45 units, Price: 225$
+Electricity: 18 units, Price: 36$ 
+- Consumed since last consumption report:
+Water: 0 units, Price: 0$
+Gas: 45 units, Price: 225$
+Electricity: 18 units, Price: 36$ 
+
+Microwave
+- Totally consumed:
+Water: 0 units, Price: 0$
+Gas: 0 units, Price: 0$
+Electricity: 9 units, Price: 18$ 
+- Consumed since last consumption report:
+Water: 0 units, Price: 0$
+Gas: 0 units, Price: 0$
+Electricity: 9 units, Price: 18$ 
+
+AC
+- Totally consumed:
+Water: 45 units, Price: 45$
+Gas: 0 units, Price: 0$
+Electricity: 72 units, Price: 144$ 
+- Consumed since last consumption report:
+Water: 45 units, Price: 45$
+Gas: 0 units, Price: 0$
+Electricity: 72 units, Price: 144$ 
+
+LightSensor
+- Totally consumed:
+Water: 0 units, Price: 0$
+Gas: 0 units, Price: 0$
+Electricity: 9 units, Price: 18$ 
+- Consumed since last consumption report:
+Water: 0 units, Price: 0$
+Gas: 0 units, Price: 0$
+Electricity: 9 units, Price: 18$ 
+
+WindowBlind
+- Totally consumed:
+Water: 0 units, Price: 0$
+Gas: 0 units, Price: 0$
+Electricity: 0 units, Price: 0$ 
+- Consumed since last consumption report:
+Water: 0 units, Price: 0$
+Gas: 0 units, Price: 0$
+Electricity: 0 units, Price: 0$ 
+
+TV
+- Totally consumed:
+Water: 0 units, Price: 0$
+Gas: 0 units, Price: 0$
+Electricity: 156 units, Price: 312$ 
+- Consumed since last consumption report:
+Water: 0 units, Price: 0$
+Gas: 0 units, Price: 0$
+Electricity: 156 units, Price: 312$ 
+
+Light
+- Totally consumed:
+Water: 0 units, Price: 0$
+Gas: 0 units, Price: 0$
+Electricity: 0 units, Price: 0$ 
+- Consumed since last consumption report:
+Water: 0 units, Price: 0$
+Gas: 0 units, Price: 0$
+Electricity: 0 units, Price: 0$ 
+
+Light
+- Totally consumed:
+Water: 0 units, Price: 0$
+Gas: 0 units, Price: 0$
+Electricity: 20 units, Price: 40$ 
+- Consumed since last consumption report:
+Water: 0 units, Price: 0$
+Gas: 0 units, Price: 0$
+Electricity: 20 units, Price: 40$ 
+
+Light
+- Totally consumed:
+Water: 0 units, Price: 0$
+Gas: 0 units, Price: 0$
+Electricity: 0 units, Price: 0$ 
+- Consumed since last consumption report:
+Water: 0 units, Price: 0$
+Gas: 0 units, Price: 0$
+Electricity: 0 units, Price: 0$ 
+
+Light
+- Totally consumed:
+Water: 0 units, Price: 0$
+Gas: 0 units, Price: 0$
+Electricity: 0 units, Price: 0$ 
+- Consumed since last consumption report:
+Water: 0 units, Price: 0$
+Gas: 0 units, Price: 0$
+Electricity: 0 units, Price: 0$ 
+
+AC
+- Totally consumed:
+Water: 45 units, Price: 45$
+Gas: 0 units, Price: 0$
+Electricity: 72 units, Price: 144$ 
+- Consumed since last consumption report:
+Water: 45 units, Price: 45$
+Gas: 0 units, Price: 0$
+Electricity: 72 units, Price: 144$ 
+
+AudioVideoReceiver
+- Totally consumed:
+Water: 0 units, Price: 0$
+Gas: 0 units, Price: 0$
+Electricity: 63 units, Price: 126$ 
+- Consumed since last consumption report:
+Water: 0 units, Price: 0$
+Gas: 0 units, Price: 0$
+Electricity: 63 units, Price: 126$ 
+
+Dehumidifier
+- Totally consumed:
+Water: 0 units, Price: 0$
+Gas: 0 units, Price: 0$
+Electricity: 9 units, Price: 18$ 
+- Consumed since last consumption report:
+Water: 0 units, Price: 0$
+Gas: 0 units, Price: 0$
+Electricity: 9 units, Price: 18$ 
+
+LightSensor
+- Totally consumed:
+Water: 0 units, Price: 0$
+Gas: 0 units, Price: 0$
+Electricity: 9 units, Price: 18$ 
+- Consumed since last consumption report:
+Water: 0 units, Price: 0$
+Gas: 0 units, Price: 0$
+Electricity: 9 units, Price: 18$ 
+
+HumiditySensor
+- Totally consumed:
+Water: 0 units, Price: 0$
+Gas: 0 units, Price: 0$
+Electricity: 9 units, Price: 18$ 
+- Consumed since last consumption report:
+Water: 0 units, Price: 0$
+Gas: 0 units, Price: 0$
+Electricity: 9 units, Price: 18$ 
+
+TemperatureSensor
+- Totally consumed:
+Water: 0 units, Price: 0$
+Gas: 0 units, Price: 0$
+Electricity: 9 units, Price: 18$ 
+- Consumed since last consumption report:
+Water: 0 units, Price: 0$
+Gas: 0 units, Price: 0$
+Electricity: 9 units, Price: 18$ 
+
+TV
+- Totally consumed:
+Water: 0 units, Price: 0$
+Gas: 0 units, Price: 0$
+Electricity: 9 units, Price: 18$ 
+- Consumed since last consumption report:
+Water: 0 units, Price: 0$
+Gas: 0 units, Price: 0$
+Electricity: 9 units, Price: 18$ 
+
+Light
+- Totally consumed:
+Water: 0 units, Price: 0$
+Gas: 0 units, Price: 0$
+Electricity: 0 units, Price: 0$ 
+- Consumed since last consumption report:
+Water: 0 units, Price: 0$
+Gas: 0 units, Price: 0$
+Electricity: 0 units, Price: 0$ 
+
+Light
+- Totally consumed:
+Water: 0 units, Price: 0$
+Gas: 0 units, Price: 0$
+Electricity: 0 units, Price: 0$ 
+- Consumed since last consumption report:
+Water: 0 units, Price: 0$
+Gas: 0 units, Price: 0$
+Electricity: 0 units, Price: 0$ 
+
+LightSensor
+- Totally consumed:
+Water: 0 units, Price: 0$
+Gas: 0 units, Price: 0$
+Electricity: 9 units, Price: 18$ 
+- Consumed since last consumption report:
+Water: 0 units, Price: 0$
+Gas: 0 units, Price: 0$
+Electricity: 9 units, Price: 18$ 
+
+WindowBlind
+- Totally consumed:
+Water: 0 units, Price: 0$
+Gas: 0 units, Price: 0$
+Electricity: 0 units, Price: 0$ 
+- Consumed since last consumption report:
+Water: 0 units, Price: 0$
+Gas: 0 units, Price: 0$
+Electricity: 0 units, Price: 0$ 
+
+WindowBlind
+- Totally consumed:
+Water: 0 units, Price: 0$
+Gas: 0 units, Price: 0$
+Electricity: 0 units, Price: 0$ 
+- Consumed since last consumption report:
+Water: 0 units, Price: 0$
+Gas: 0 units, Price: 0$
+Electricity: 0 units, Price: 0$ 
+
+TV
+- Totally consumed:
+Water: 0 units, Price: 0$
+Gas: 0 units, Price: 0$
+Electricity: 107 units, Price: 214$ 
+- Consumed since last consumption report:
+Water: 0 units, Price: 0$
+Gas: 0 units, Price: 0$
+Electricity: 107 units, Price: 214$ 
+
+Light
+- Totally consumed:
+Water: 0 units, Price: 0$
+Gas: 0 units, Price: 0$
+Electricity: 0 units, Price: 0$ 
+- Consumed since last consumption report:
+Water: 0 units, Price: 0$
+Gas: 0 units, Price: 0$
+Electricity: 0 units, Price: 0$ 
+
+Light
+- Totally consumed:
+Water: 0 units, Price: 0$
+Gas: 0 units, Price: 0$
+Electricity: 0 units, Price: 0$ 
+- Consumed since last consumption report:
+Water: 0 units, Price: 0$
+Gas: 0 units, Price: 0$
+Electricity: 0 units, Price: 0$ 
+
+LightSensor
+- Totally consumed:
+Water: 0 units, Price: 0$
+Gas: 0 units, Price: 0$
+Electricity: 9 units, Price: 18$ 
+- Consumed since last consumption report:
+Water: 0 units, Price: 0$
+Gas: 0 units, Price: 0$
+Electricity: 9 units, Price: 18$ 
+
+WindowBlind
+- Totally consumed:
+Water: 0 units, Price: 0$
+Gas: 0 units, Price: 0$
+Electricity: 0 units, Price: 0$ 
+- Consumed since last consumption report:
+Water: 0 units, Price: 0$
+Gas: 0 units, Price: 0$
+Electricity: 0 units, Price: 0$ 
+
+WindowBlind
+- Totally consumed:
+Water: 0 units, Price: 0$
+Gas: 0 units, Price: 0$
+Electricity: 0 units, Price: 0$ 
+- Consumed since last consumption report:
+Water: 0 units, Price: 0$
+Gas: 0 units, Price: 0$
+Electricity: 0 units, Price: 0$ 
+
+
+Total consumption in house:
+Water: 90 units, Price: 90$
+Gas: 45 units, Price: 225$
+Electricity: 683 units, Price: 1366$ 
+
+Consumption in house since last measuring:
+Water: 90 units, Price: 90$
+Gas: 45 units, Price: 225$
+Electricity: 683 units, Price: 1366$ 
+

@@ -1,0 +1,62 @@
+- House
+-- Floor
+--- Room
+---- Adult: Heinrich Schmidt
+---- SportsEquipmentRack
+----- Skis
+--- Room
+---- SportsEquipmentRack
+----- Bike
+----- Skis
+-- Floor
+--- Room
+---- Adult: Konrad Meier
+---- Kid: Wilhem Vogel
+---- Dog: Vogel
+---- Dog: Beck
+---- Adult: Konrad Schmidt
+---- Fridge
+---- Dishwasher
+---- Light
+---- Light
+---- Oven
+---- Microwave
+---- AC
+---- LightSensor
+---- Window 
+----- WindowBlind
+---- Window 
+--- Room
+---- Kid: Friedrich Roth
+---- TV
+---- Light
+---- Light
+---- Light
+---- Light
+---- AC
+---- AudioVideoReceiver
+---- Dehumidifier
+---- LightSensor
+---- HumiditySensor
+---- TemperatureSensor
+---- Window 
+--- Room
+---- TV
+---- Light
+---- Light
+---- LightSensor
+---- Window 
+----- WindowBlind
+---- Window 
+----- WindowBlind
+--- Room
+---- Dog: Schmitz
+---- TV
+---- Light
+---- Light
+---- LightSensor
+---- Window 
+----- WindowBlind
+---- Window 
+----- WindowBlind
+
